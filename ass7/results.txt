@@ -1,0 +1,30 @@
+Message : hi
+ 
+words count : 1 
+ Lines Count : 0 
+ Charcters Count : 2
+
+Message : hi
+ 
+words count : 1 
+ Lines Count : 0 
+ Charcters Count : 2
+
+Message : hi
+ 
+words count : 1 
+ Lines Count : 0 
+ Charcters Count : 2
+
+Message : ok
+ 
+words count : 1 
+ Lines Count : 0 
+ Charcters Count : 2
+
+Message : hello i am going to my home.for diwaLI
+ 
+words count : 8 
+ Lines Count : 1 
+ Charcters Count : 38
+
