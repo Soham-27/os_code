@@ -6,6 +6,7 @@
 
 
 # define N 10
+
 int buffer[N];
 int in=0;
 int out=0;
